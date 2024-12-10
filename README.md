@@ -38,12 +38,3 @@ This file manager leverages C's standard libraries for file manipulation and bas
 
 3. **Enjoy**:  
    Follow the prompts and start managing your files with ease!
-
----
-
-## How to Use
-
-Run the file manager and follow the prompts to perform various file operations.
-
-Examples:
-- **Copy a file:**
