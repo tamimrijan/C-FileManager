@@ -28,7 +28,22 @@ This file manager leverages C's standard libraries for file manipulation and bas
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/file-manager-cli.git
-   cd file-manager-cli
+1. **Download the files**:  
+   Go to the [Releases](#) section of this repository and download the following files:
+   - `C-FileManager.exe`
+   - `C-FileManager.o`
+
+2. **Run the application**:  
+   Double-click on `C-FileManager.exe` to launch the file manager.
+
+3. **Enjoy**:  
+   Follow the prompts and start managing your files with ease!
+
+---
+
+## How to Use
+
+Run the file manager and follow the prompts to perform various file operations.
+
+Examples:
+- **Copy a file:**
