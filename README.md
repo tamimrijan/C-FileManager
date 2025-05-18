@@ -29,7 +29,7 @@ This file manager leverages C's standard libraries for file manipulation and bas
 ## Installation
 
 1. **Download the files**:  
-   Go to the [Releases](#) section of this repository and download the following files:
+   Go to the [Releases](https://github.com/tamimrijan/C-FileManager/releases/tag/cfilemanger%2Cfilemanagerinc%2Ccse323) section of this repository and download the following files:
    - `C-FileManager.exe`
    - `C-FileManager.o`
 
